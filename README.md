@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 Feel free to reach out to me on [X](https://x.com/TylerPears77865) or [Linkedin](https://www.linkedin.com/in/tyler-a-pearson)
 - ⚡ Fun fact: I have 2 hilarious cats named Zora and Loki
 
+## Holopin Board
+[![An image of @tylerapear's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tylerapear)](https://holopin.io/@tylerapear)
